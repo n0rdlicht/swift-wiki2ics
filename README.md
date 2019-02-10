@@ -12,5 +12,6 @@ A service, that takes a Wikipedia-Page with a table (e.g. [Upcoming Falcon 9 and
 - [ ] generate ics-feed from table
 
 ## Possible Components
-- HTML Parsing: https://github.com/tid-kijyun/Kanna
-- ICS-Feed: Use https://github.com/kiliankoe/iCalKit
+- Server Side Swift: [NIO](https://github.com/apple/swift-nio) or [Vapor](https://github.com/vapor/vapor)
+- HTML Parsing: [Kanna](https://github.com/tid-kijyun/Kanna) by [Atsushi Kiwaki](https://github.com/tid-kijyun)
+- ICS-Feed: Use [iCalKit](https://github.com/kiliankoe/iCalKit) by [Kilian Koeltzsch](https://github.com/kiliankoe)
